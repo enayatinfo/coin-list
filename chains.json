@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Bitcoin",
+        "symbol":"BTC",
+        "chain":0,
+        "type":"main"
+    },
+    {
+        "name":"Tether",
+        "symbol":"USDT",
+        "chain":0,
+        "type":"erc20"
+    }
+]
