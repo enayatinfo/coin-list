@@ -10,5 +10,11 @@
         "symbol":"USDT",
         "chain":0,
         "type":"erc20"
+    },
+    {
+        "name":"Binance",
+        "symbol":"BNB",
+        "chain":0,
+        "type":"main"
     }
 ]
